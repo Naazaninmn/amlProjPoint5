@@ -174,7 +174,6 @@ def build_splits_baseline(opt):
     ])
 
     # Dataloaders
-    print(train_examples)
     train_loader = DataLoader(PACSDatasetBaseline(train_examples, train_transform), batch_size=opt['batch_size'],
                               num_workers=opt['num_workers'], shuffle=True)
     val_loader = DataLoader(PACSDatasetBaseline(val_examples, eval_transform), batch_size=opt['batch_size'],
