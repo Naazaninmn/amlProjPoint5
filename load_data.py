@@ -209,8 +209,9 @@ def build_splits_domain_disentangle(opt):
     source_examples = read_lines_domain_disentangle(opt['data_path'], source_domain1)
     source_examples.update(read_lines_domain_disentangle(opt['data_path'], source_domain2))
     source_examples.update(read_lines_domain_disentangle(opt['data_path'], source_domain3))
-    random.shuffle(source_examples)
-    
+    keys = list(source_examples.keys())
+    random.shuffle(keys)
+
     target_examples = read_lines_domain_disentangle(opt['data_path'], target_domain)
 
     # Compute ratios of examples for each category
@@ -331,7 +332,8 @@ def build_splits_clip_disentangle(opt):
     source_examples = read_lines_domain_disentangle(opt['data_path'], source_domain1)
     source_examples.update(read_lines_domain_disentangle(opt['data_path'], source_domain2))
     source_examples.update(read_lines_domain_disentangle(opt['data_path'], source_domain3))
-    random.shuffle(source_examples)
+    keys = list(source_examples.keys())
+    random.shuffle(keys)
     
     target_examples = read_lines_domain_disentangle(opt['data_path'], target_domain)
 
