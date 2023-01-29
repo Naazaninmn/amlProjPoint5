@@ -281,15 +281,17 @@ def build_splits_domain_disentangle(opt):
     return train_loader, val_loader, test_loader
 
 
-def read_label_file(path, source, target):
+def read_label_file(path, source1, source2, source3):
     label_file = open(f'{path}/labelFile.json')
     data = json.load(label_file)
     source_list = []
     target_list = []
     for info in data:
-        if str(info["image_name"]).startswith(source):
+        if str(info["image_name"]).startswith(source1):
             source_list.append(info)
-        elif str(info["image_name"]).startswith(target):
+        elif str(info["image_name"]).startswith(source2):
+            target_list.append(info)
+        elif str(info["image_name"]).startswith(source3):
             target_list.append(info)
         else:
             continue
@@ -380,8 +382,6 @@ def build_splits_clip_disentangle(opt):
         domain_idx = domain_category[0]
         category_idx = domain_category[1]
         for example in examples_list:
-            label = get_label_info(target_label, example)
-            #label_token = clip.tokenize(label)
             test_examples.append(
                 [example, category_idx, domain_idx, label])  # each pair is [path_to_img, class_label, target_label]
 
