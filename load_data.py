@@ -352,7 +352,11 @@ def build_splits_clip_disentangle(opt):
     # Build splits - we train only on the source domain (Art Painting)
     val_split_length = source_total_examples * 0.2  # 20% of the training split used for validation
     # read label file
-    source_label, target_label = read_label_file(opt['data_path'], source_domain, target_domain)
+    source_label1, source_label2, source_label3 = read_label_file(opt['data_path'], source_domain1, source_domain2, source_domain3)
+    source_label = []
+    source_label.extend(source_label1)
+    source_label.extend(source_label2)
+    source_label.extend(source_label3)
     train_examples = []
     val_examples = []
     test_examples = []
