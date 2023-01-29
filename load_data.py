@@ -285,17 +285,12 @@ def read_label_file(path, source1, source2, source3):
     label_file = open(f'{path}/labelFile.json')
     data = json.load(label_file)
     source_list = []
-    target_list = []
     for info in data:
-        if str(info["image_name"]).startswith(source1):
+        if str(info["image_name"]).startswith(source1) or str(info["image_name"]).startswith(source2) or str(info["image_name"]).startswith(source3):
             source_list.append(info)
-        elif str(info["image_name"]).startswith(source2):
-            target_list.append(info)
-        elif str(info["image_name"]).startswith(source3):
-            target_list.append(info)
         else:
             continue
-    return source_list, target_list
+    return source_list
 
 
 def get_label_info(info_list, target_address):
@@ -354,11 +349,7 @@ def build_splits_clip_disentangle(opt):
     # Build splits - we train only on the source domain (Art Painting)
     val_split_length = source_total_examples * 0.2  # 20% of the training split used for validation
     # read label file
-    source_label1, source_label2, source_label3 = read_label_file(opt['data_path'], source_domain1, source_domain2, source_domain3)
-    source_label = []
-    source_label.extend(source_label1)
-    source_label.extend(source_label2)
-    source_label.extend(source_label3)
+    source_label = read_label_file(opt['data_path'], source_domain1, source_domain2, source_domain3)
     train_examples = []
     val_examples = []
     test_examples = []
