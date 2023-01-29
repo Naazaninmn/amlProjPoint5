@@ -162,7 +162,7 @@ class CLIPDisentangleModel( nn.Module ):
             nn.ReLU()
         )
 
-        self.domain_classifier = nn.Linear( 512, 2 )
+        self.domain_classifier = nn.Linear( 512, 3 )
         self.object_classifier = nn.Linear( 512, 7 )
 
         self.reconstructor = nn.Sequential(
