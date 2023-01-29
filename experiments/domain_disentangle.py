@@ -67,136 +67,87 @@ class DomainDisentangleExperiment:  # See point 2. of the project
         self.weights = weight
         self.optimizer.zero_grad()
 
-        if train:
-            x, y, z = data
-            x = x.to( self.device )
-            y = y.to( self.device )
-            z = z.to( self.device )
 
-            for param in self.model.domain_encoder.parameters():
-                param.requires_grad = False
-            for param in self.model.domain_classifier.parameters():
-                param.requires_grad = False
-            for param in self.model.reconstructor.parameters():
-                param.requires_grad = False
-            logits = self.model( x, w1=1 )
-            loss = self.object_classifier_criterion( logits, y ) * self.weights[0]
-            loss.backward()
-            for param in self.model.domain_encoder.parameters():
-                param.requires_grad = True
-            for param in self.model.domain_classifier.parameters():
-                param.requires_grad = True
-            for param in self.model.reconstructor.parameters():
-                param.requires_grad = True
+        x, y, z = data
+        x = x.to( self.device )
+        y = y.to( self.device )
+        z = z.to( self.device )
 
-            for param in self.model.category_encoder.parameters():
-                param.requires_grad = False
-            for param in self.model.object_classifier.parameters():
-                param.requires_grad = False
-            for param in self.model.reconstructor.parameters():
-                param.requires_grad = False
-            logits = self.model( x, w2=1 )
-            loss = self.domain_classifier_criterion( logits, z ) * self.weights[1]
-            loss.backward()
-            for param in self.model.category_encoder.parameters():
-                param.requires_grad = True
-            for param in self.model.object_classifier.parameters():
-                param.requires_grad = True
-            for param in self.model.reconstructor.parameters():
-                param.requires_grad = True
+        for param in self.model.domain_encoder.parameters():
+            param.requires_grad = False
+        for param in self.model.domain_classifier.parameters():
+            param.requires_grad = False
+        for param in self.model.reconstructor.parameters():
+            param.requires_grad = False
+        logits = self.model( x, w1=1 )
+        loss = self.object_classifier_criterion( logits, y ) * self.weights[0]
+        loss.backward()
+        for param in self.model.domain_encoder.parameters():
+            param.requires_grad = True
+        for param in self.model.domain_classifier.parameters():
+            param.requires_grad = True
+        for param in self.model.reconstructor.parameters():
+            param.requires_grad = True
 
-            for param in self.model.domain_encoder.parameters():
-                param.requires_grad = False
-            for param in self.model.object_classifier.parameters():
-                param.requires_grad = False
-            for param in self.model.reconstructor.parameters():
-                param.requires_grad = False
-            logits = self.model( x, w3=self.weights[0] )
-            loss = self.domain_category_criterion( logits ) * self.weights[2]
-            loss.backward()
-            for param in self.model.domain_encoder.parameters():
-                param.requires_grad = True
-            for param in self.model.object_classifier.parameters():
-                param.requires_grad = True
-            for param in self.model.reconstructor.parameters():
-                param.requires_grad = True
+        for param in self.model.category_encoder.parameters():
+            param.requires_grad = False
+        for param in self.model.object_classifier.parameters():
+            param.requires_grad = False
+        for param in self.model.reconstructor.parameters():
+            param.requires_grad = False
+        logits = self.model( x, w2=1 )
+        loss = self.domain_classifier_criterion( logits, z ) * self.weights[1]
+        loss.backward()
+        for param in self.model.category_encoder.parameters():
+            param.requires_grad = True
+        for param in self.model.object_classifier.parameters():
+            param.requires_grad = True
+        for param in self.model.reconstructor.parameters():
+            param.requires_grad = True
 
-            for param in self.model.category_encoder.parameters():
-                param.requires_grad = False
-            for param in self.model.domain_classifier.parameters():
-                param.requires_grad = False
-            for param in self.model.reconstructor.parameters():
-                param.requires_grad = False
-            logits = self.model( x, w4=self.weights[1] )
-            loss = self.object_domain_criterion( logits ) * self.weights[3]
-            loss.backward()
-            for param in self.model.category_encoder.parameters():
-                param.requires_grad = True
-            for param in self.model.domain_classifier.parameters():
-                param.requires_grad = True
-            for param in self.model.reconstructor.parameters():
-                param.requires_grad = True
+        for param in self.model.domain_encoder.parameters():
+            param.requires_grad = False
+        for param in self.model.object_classifier.parameters():
+            param.requires_grad = False
+        for param in self.model.reconstructor.parameters():
+            param.requires_grad = False
+        logits = self.model( x, w3=self.weights[0] )
+        loss = self.domain_category_criterion( logits ) * self.weights[2]
+        loss.backward()
+        for param in self.model.domain_encoder.parameters():
+            param.requires_grad = True
+        for param in self.model.object_classifier.parameters():
+            param.requires_grad = True
+        for param in self.model.reconstructor.parameters():
+            param.requires_grad = True
 
-            for param in self.model.object_classifier.parameters():
-                param.requires_grad = False
-            for param in self.model.domain_classifier.parameters():
-                param.requires_grad = False
-            logits, X = self.model( x, w5=self.weights[2] )
-            loss = self.reconstructor_criterion( logits, X ) * self.weights[4]
-            loss.backward()
-            for param in self.model.object_classifier.parameters():
-                param.requires_grad = True
-            for param in self.model.domain_classifier.parameters():
-                param.requires_grad = True
+        for param in self.model.category_encoder.parameters():
+            param.requires_grad = False
+        for param in self.model.domain_classifier.parameters():
+            param.requires_grad = False
+        for param in self.model.reconstructor.parameters():
+            param.requires_grad = False
+        logits = self.model( x, w4=self.weights[1] )
+        loss = self.object_domain_criterion( logits ) * self.weights[3]
+        loss.backward()
+        for param in self.model.category_encoder.parameters():
+            param.requires_grad = True
+        for param in self.model.domain_classifier.parameters():
+            param.requires_grad = True
+        for param in self.model.reconstructor.parameters():
+            param.requires_grad = True
 
-        else:
-            x, y, z = data
-            x = x.to( self.device )
-            z = z.to( self.device )
-
-            for param in self.model.category_encoder.parameters():
-                param.requires_grad = False
-            for param in self.model.object_classifier.parameters():
-                param.requires_grad = False
-            for param in self.model.reconstructor.parameters():
-                param.requires_grad = False
-            logits = self.model( x, w2=1 )
-            loss = self.domain_classifier_criterion( logits, z ) * self.weights[1]
-            loss.backward()
-            for param in self.model.category_encoder.parameters():
-                param.requires_grad = True
-            for param in self.model.object_classifier.parameters():
-                param.requires_grad = True
-            for param in self.model.reconstructor.parameters():
-                param.requires_grad = True
-            
-            for param in self.model.domain_encoder.parameters():
-                param.requires_grad = False
-            for param in self.model.object_classifier.parameters():
-                param.requires_grad = False
-            for param in self.model.reconstructor.parameters():
-                param.requires_grad = False
-            logits = self.model( x, w3=self.weights[0] )
-            loss = self.domain_category_criterion( logits ) * self.weights[2]
-            loss.backward()
-            for param in self.model.domain_encoder.parameters():
-                param.requires_grad = True
-            for param in self.model.object_classifier.parameters():
-                param.requires_grad = True
-            for param in self.model.reconstructor.parameters():
-                param.requires_grad = True
-
-            for param in self.model.object_classifier.parameters():
-                param.requires_grad = False
-            for param in self.model.domain_classifier.parameters():
-                param.requires_grad = False
-            logits, X = self.model( x, w5=self.weights[2] )
-            loss = self.reconstructor_criterion( logits, X ) * self.weights[4]
-            loss.backward()
-            for param in self.model.object_classifier.parameters():
-                param.requires_grad = True
-            for param in self.model.domain_classifier.parameters():
-                param.requires_grad = True
+        for param in self.model.object_classifier.parameters():
+            param.requires_grad = False
+        for param in self.model.domain_classifier.parameters():
+            param.requires_grad = False
+        logits, X = self.model( x, w5=self.weights[2] )
+        loss = self.reconstructor_criterion( logits, X ) * self.weights[4]
+        loss.backward()
+        for param in self.model.object_classifier.parameters():
+            param.requires_grad = True
+        for param in self.model.domain_classifier.parameters():
+            param.requires_grad = True
 
         self.optimizer.step()
 

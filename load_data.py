@@ -17,8 +17,8 @@ CATEGORIES = {
 DOMAINS = {
     'art_painting': 0,
     'cartoon': 1,
-    'sketch': 1,
-    'photo': 1
+    'sketch': 2,
+    'photo': 3
 }
 
 
@@ -185,10 +185,30 @@ def build_splits_baseline(opt):
 
 
 def build_splits_domain_disentangle(opt):
-    source_domain = 'art_painting'
-    target_domain = opt['target_domain']
+    if opt['target_domain'] == 'cartoon':
+        source_domain1 = 'art_painting'
+        source_domain2 = 'sketch'
+        source_domain3 = 'photo'
+        target_domain = opt['target_domain']
+    elif opt['target_domain'] == 'sketch':
+        source_domain1 = 'art_painting'
+        source_domain2 = 'cartoon'
+        source_domain3 = 'photo'
+        target_domain = opt['target_domain']
+    elif opt['target_domain'] == 'photo':
+        source_domain1 = 'art_painting'
+        source_domain2 = 'cartoon'
+        source_domain3 = 'sketch'
+        target_domain = opt['target_domain']
+    else:
+        source_domain1 = 'cartoon'
+        source_domain2 = 'sketch'
+        source_domain3 = 'photo'
+        target_domain = opt['target_domain']
 
-    source_examples = read_lines_domain_disentangle(opt['data_path'], source_domain)
+    source_examples = read_lines_domain_disentangle(opt['data_path'], source_domain1)
+    source_examples.update(read_lines_domain_disentangle(opt['data_path'], source_domain2))
+    source_examples.update(read_lines_domain_disentangle(opt['data_path'], source_domain3))
     target_examples = read_lines_domain_disentangle(opt['data_path'], target_domain)
 
     # Compute ratios of examples for each category

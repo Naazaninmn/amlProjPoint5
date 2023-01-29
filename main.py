@@ -89,7 +89,7 @@ def main(opt):
             logging.info(
                 f'WEIGHT: {weight}' )
             train_loader_iterator = iter(train_loader)
-            test_loader_iterator = iter(test_loader)
+            #test_loader_iterator = iter(test_loader)
             while iteration < opt['max_iterations']:
 
                 try:
@@ -100,13 +100,13 @@ def main(opt):
 
                 total_train_loss += experiment.train_iteration( data, train=True, weight=weight )
 
-                try:
-                    data = next(test_loader_iterator)
-                except StopIteration:
-                    test_loader_iterator = iter(test_loader)
-                    data = next(test_loader_iterator)
+                # try:
+                #     data = next(test_loader_iterator)
+                # except StopIteration:
+                #     test_loader_iterator = iter(test_loader)
+                #     data = next(test_loader_iterator)
                 
-                total_train_loss += experiment.train_iteration( data, train=False, weight=weight )
+                #total_train_loss += experiment.train_iteration( data, train=False, weight=weight )
 
 
                 if iteration % opt['print_every'] == 0:
@@ -125,7 +125,7 @@ def main(opt):
                                                 best_accuracy,
                                                 total_train_loss )
 
-                iteration += 2
+                iteration += 1
                 if iteration > opt['max_iterations']:
                     break
         
@@ -146,7 +146,7 @@ def main(opt):
             logging.info(
                 f'WEIGHT: {weight}' )
             train_loader_iterator = iter(train_loader)
-            test_loader_iterator = iter(test_loader)
+            #test_loader_iterator = iter(test_loader)
             while iteration < opt['max_iterations']:
                 
                 try:
@@ -157,13 +157,13 @@ def main(opt):
 
                 total_train_loss += experiment.train_iteration( data, train=True, weight=weight )
 
-                try:
-                    data = next(test_loader_iterator)
-                except StopIteration:
-                    test_loader_iterator = iter(test_loader)
-                    data = next(test_loader_iterator)
+                # try:
+                #     data = next(test_loader_iterator)
+                # except StopIteration:
+                #     test_loader_iterator = iter(test_loader)
+                #     data = next(test_loader_iterator)
                 
-                total_train_loss += experiment.train_iteration( data, train=False, weight=weight )
+                #total_train_loss += experiment.train_iteration( data, train=False, weight=weight )
 
 
                 if iteration % opt['print_every'] == 0:
@@ -182,7 +182,7 @@ def main(opt):
                                                 best_accuracy,
                                                 total_train_loss )
 
-                iteration += 2
+                iteration += 1
                 if iteration > opt['max_iterations']:
                     break
         
