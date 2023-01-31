@@ -176,6 +176,7 @@ class CLIPDisentangleExperiment:  # See point 4. of the project
             param.requires_grad = False
         domain_encoder_output, text_features = self.model(x, y=tokenized)
         loss = self.clip_text_encoder_criterion(domain_encoder_output, text_features) * self.weights[5]
+        print(loss)
         loss.backward()
         for param in self.model.category_encoder.parameters():
             param.requires_grad = True
