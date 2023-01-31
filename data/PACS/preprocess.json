@@ -7,10 +7,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -21,10 +21,10 @@
       "low saturation, light reflections",
       "no, grayscale",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -35,10 +35,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -49,10 +49,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -63,10 +63,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -77,8 +77,8 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -91,10 +91,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -105,10 +105,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -119,10 +119,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -134,9 +134,9 @@
       "Yes, colorful",
       "colorful",
       "no, 3",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -147,10 +147,10 @@
       "low saturation, colorful, bright",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -161,10 +161,10 @@
       "low saturation, colorful, contrasting, neutral",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -176,9 +176,9 @@
       "Yes, colorful",
       "colorful",
       "no, 6",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -189,10 +189,10 @@
       "low saturation, vivid colors, colorful, contrasting",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -204,9 +204,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -217,10 +217,10 @@
       "low saturation, vivid colors, colorful, bright",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -231,8 +231,8 @@
       "low saturation, vivid colors, colorful, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -245,10 +245,10 @@
       "low saturation, colorful, neutral, warm",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -260,9 +260,9 @@
       "Yes, colorful",
       "colorful",
       "no, 3",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -274,9 +274,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -287,8 +287,8 @@
       "low saturation, vivid colors, colorful, warm",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -301,8 +301,8 @@
       "low saturation, vivid colors, colorful, contrasting",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -316,9 +316,9 @@
       "Yes, colorful",
       "white",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -329,10 +329,10 @@
       "low saturation, vivid colors, colorful, faded",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -344,9 +344,9 @@
       "Yes, colorful",
       "monochrome",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -358,9 +358,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -372,9 +372,9 @@
       "Yes, colorful",
       "colorful",
       "no, 3",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -385,8 +385,8 @@
       "low saturation, vivid colors, colorful, contrasting, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -399,8 +399,8 @@
       "low saturation, gray, dark,deep",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -413,10 +413,10 @@
       "low saturation, colorful, warm, neutral",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -427,10 +427,10 @@
       "low saturation, vivid colors, blended, colorful",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -441,10 +441,10 @@
       "low saturation, volorful, neutral, worm, blended",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -455,10 +455,10 @@
       "low saturation, colurful, cold",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -470,9 +470,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -483,10 +483,10 @@
       "low saturation, colorful, sharp, cold, contrasted",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -497,8 +497,8 @@
       "low saturation, colurful, blended, contrasting",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -511,8 +511,8 @@
       "low saturation, vivid colors, colurful, ashy,worm",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -526,9 +526,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -540,9 +540,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -553,10 +553,10 @@
       "low saturation, colurful, worm ,muted, bright",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -568,9 +568,9 @@
       "Yes, colorful",
       "colorful",
       "no, 3",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -581,10 +581,10 @@
       "low saturation, colorful, warm, blended",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -595,10 +595,10 @@
       "low saturation, vivid colors, colorful, faded, neutral ",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -609,10 +609,10 @@
       "low saturation, colorful, dark , contrasted, worm",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -623,10 +623,10 @@
       "low saturation, colorful, cold, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -638,9 +638,9 @@
       "Yes, colorful",
       "colorful",
       "no, 4",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -651,10 +651,10 @@
       "low saturation, colorful. neutral, cold, ashy",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -666,7 +666,7 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -680,9 +680,9 @@
       "Yes, colorful",
       "white",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -693,8 +693,8 @@
       "low saturation, colorful, neutral,blended,muted",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -708,9 +708,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -721,10 +721,10 @@
       "low saturation, colorful, cold, neutral",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -736,9 +736,9 @@
       "Yes, colorful",
       "white",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -749,10 +749,10 @@
       "low saturation, colorful, bright, light reflections, belended",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -764,9 +764,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -777,10 +777,10 @@
       "low saturation, colorful , vivid colors, worm, contrasted",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -791,10 +791,10 @@
       "low saturation, colorful, cold, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -805,10 +805,10 @@
       "low saturation, colorful, neutral, cold, blended",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -819,10 +819,10 @@
       "low saturation, vivid colors, colorful ,cold, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -833,10 +833,10 @@
       "low saturation, colorful, worm, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -847,10 +847,10 @@
       "low saturation, colorful, neutral, bright, contrasting",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -862,9 +862,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -875,10 +875,10 @@
       "low saturation, colorful, blended",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -889,10 +889,10 @@
       "low saturation, colurful, cold, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -904,9 +904,9 @@
       "Yes, colorful",
       "monochrome",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -918,9 +918,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -931,8 +931,8 @@
       "low saturation, colorful, vivid colors, cold",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -945,10 +945,10 @@
       "low saturation, colorful, bright, faded",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -960,9 +960,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -973,8 +973,8 @@
       "low saturation, colorful, vivid colors, contrasting, ",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -987,10 +987,10 @@
       "low saturation, colorful, neutral, clear",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "image",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1001,10 +1001,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1015,10 +1015,10 @@
       "low saturation, light reflections",
       "no, grayscale",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1029,10 +1029,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1043,10 +1043,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1057,10 +1057,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1071,8 +1071,8 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -1085,10 +1085,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1099,10 +1099,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1113,10 +1113,10 @@
       "low saturation, vivid colors",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1128,9 +1128,9 @@
       "Yes, colorful",
       "colorful",
       "no, 3",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1141,10 +1141,10 @@
       "low saturation, colorful, bright",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1155,10 +1155,10 @@
       "low saturation, colorful, contrasting, neutral",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1170,9 +1170,9 @@
       "Yes, colorful",
       "colorful",
       "no, 6",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1183,10 +1183,10 @@
       "low saturation, vivid colors, colorful, contrasting",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1198,9 +1198,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1211,10 +1211,10 @@
       "low saturation, vivid colors, colorful, bright",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1225,8 +1225,8 @@
       "low saturation, vivid colors, colorful, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -1239,10 +1239,10 @@
       "low saturation, colorful, neutral, warm",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1254,9 +1254,9 @@
       "Yes, colorful",
       "colorful",
       "no, 3",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1268,9 +1268,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1281,8 +1281,8 @@
       "low saturation, vivid colors, colorful, warm",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -1295,8 +1295,8 @@
       "low saturation, vivid colors, colorful, contrasting",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -1310,9 +1310,9 @@
       "Yes, colorful",
       "white",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1323,10 +1323,10 @@
       "low saturation, vivid colors, colorful, faded",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1338,9 +1338,9 @@
       "Yes, colorful",
       "monochrome",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1352,9 +1352,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1366,9 +1366,9 @@
       "Yes, colorful",
       "colorful",
       "no, 3",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1379,8 +1379,8 @@
       "low saturation, vivid colors, colorful, contrasting, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -1393,8 +1393,8 @@
       "low saturation, gray, dark,deep",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -1407,10 +1407,10 @@
       "low saturation, colorful, warm, neutral",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1421,10 +1421,10 @@
       "low saturation, vivid colors, blended, colorful",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1435,10 +1435,10 @@
       "low saturation, volorful, neutral, worm, blended",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1449,10 +1449,10 @@
       "low saturation, colurful, cold",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1464,9 +1464,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1477,10 +1477,10 @@
       "low saturation, colorful, sharp, cold, contrasted",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1491,8 +1491,8 @@
       "low saturation, colurful, blended, contrasting",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -1505,8 +1505,8 @@
       "low saturation, vivid colors, colurful, ashy,worm",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -1520,9 +1520,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1534,9 +1534,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1547,10 +1547,10 @@
       "low saturation, colurful, worm ,muted, bright",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1562,9 +1562,9 @@
       "Yes, colorful",
       "colorful",
       "no, 3",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1575,10 +1575,10 @@
       "low saturation, colorful, warm, blended",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1589,10 +1589,10 @@
       "low saturation, vivid colors, colorful, faded, neutral ",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1603,10 +1603,10 @@
       "low saturation, colorful, dark , contrasted, worm",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1617,10 +1617,10 @@
       "low saturation, colorful, cold, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1632,9 +1632,9 @@
       "Yes, colorful",
       "colorful",
       "no, 4",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1645,10 +1645,10 @@
       "low saturation, colorful. neutral, cold, ashy",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1660,7 +1660,7 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -1674,9 +1674,9 @@
       "Yes, colorful",
       "white",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1687,8 +1687,8 @@
       "low saturation, colorful, neutral,blended,muted",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -1702,9 +1702,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1715,10 +1715,10 @@
       "low saturation, colorful, cold, neutral",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1730,9 +1730,9 @@
       "Yes, colorful",
       "white",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1743,10 +1743,10 @@
       "low saturation, colorful, bright, light reflections, belended",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1758,9 +1758,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1771,10 +1771,10 @@
       "low saturation, colorful , vivid colors, worm, contrasted",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1785,10 +1785,10 @@
       "low saturation, colorful, cold, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1799,10 +1799,10 @@
       "low saturation, colorful, neutral, cold, blended",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1813,10 +1813,10 @@
       "low saturation, vivid colors, colorful ,cold, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1827,10 +1827,10 @@
       "low saturation, colorful, worm, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1841,10 +1841,10 @@
       "low saturation, colorful, neutral, bright, contrasting",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1856,9 +1856,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1869,10 +1869,10 @@
       "low saturation, colorful, blended",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1883,10 +1883,10 @@
       "low saturation, colurful, cold, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1898,9 +1898,9 @@
       "Yes, colorful",
       "monochrome",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1912,9 +1912,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1925,8 +1925,8 @@
       "low saturation, colorful, vivid colors, cold",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -1939,10 +1939,10 @@
       "low saturation, colorful, bright, faded",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1954,9 +1954,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "painting, brush strokes",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1967,8 +1967,8 @@
       "low saturation, colorful, vivid colors, contrasting, ",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "painting, brush strokes",
       "no, unrealistic"
     ]
@@ -1981,10 +1981,10 @@
       "low saturation, colorful, neutral, clear",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "image",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -1995,8 +1995,8 @@
       "low saturation, colorful,yellow, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2009,8 +2009,8 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2023,8 +2023,8 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2037,7 +2037,7 @@
       "low saturation, colorful, red, black",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
       "no, unrealistic"
@@ -2051,10 +2051,10 @@
       "low saturation, colorful, red ",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2065,10 +2065,10 @@
       "low saturation, colorful, gray scale",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2079,7 +2079,7 @@
       "low saturation, colorful, cold ",
       "Yes, colorful",
       "colorful",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -2093,8 +2093,8 @@
       "low saturation, colorful, red, yellow",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2107,8 +2107,8 @@
       "low saturation, colorful, yellow, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2124,7 +2124,7 @@
       "no, 4",
       "yes, sparse text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2135,10 +2135,10 @@
       "low saturation, colorful, blue, bright, cold",
       "Yes, colorful",
       "colorful",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2149,7 +2149,7 @@
       "low saturation, colorful, yellow, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
       "no, unrealistic"
@@ -2163,10 +2163,10 @@
       "low saturation, colorful, yellow, brown",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2177,10 +2177,10 @@
       "low saturation, colorful, vivid colors, red, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2191,8 +2191,8 @@
       "low saturation, colorful, gray",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2205,8 +2205,8 @@
       "low saturation, colorful, gray",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2219,7 +2219,7 @@
       "low saturation, colorful,brown, blue",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
       "no, unrealistic"
@@ -2233,8 +2233,8 @@
       "low saturation, colorful,yellow, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2247,10 +2247,10 @@
       "low saturation, colorful, vivid colors",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2261,7 +2261,7 @@
       "low saturation, colorful, brown, yellow",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -2276,7 +2276,7 @@
       "Yes, colorful",
       "colorful",
       "no, 7",
-      "no",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2289,10 +2289,10 @@
       "low saturation, colorful, gray, pink",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2304,9 +2304,9 @@
       "Yes, colorful",
       "white",
       "no, 2",
-      "no",
+      "no, text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2317,10 +2317,10 @@
       "low saturation, colorful, dark",
       "Yes, colorful",
       "colorful",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2331,7 +2331,7 @@
       "low saturation, colorful, blue, pink, yellow, red",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -2345,8 +2345,8 @@
       "low saturation, colorful, vivid colors, gray, red, yellow, blue",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2359,10 +2359,10 @@
       "low saturation, colorful, bright, black, white",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2373,8 +2373,8 @@
       "low saturation, colorful, yellow, black ",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2387,8 +2387,8 @@
       "low saturation, colorful, gray, pink",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2401,7 +2401,7 @@
       "low saturation, colorful, yellow, brown",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
       "no, unrealistic"
@@ -2415,8 +2415,8 @@
       "low saturation, colorful, brown,black",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2430,9 +2430,9 @@
       "Yes, colorful",
       "colorful",
       "no, 5",
-      "no",
+      "no, text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2444,7 +2444,7 @@
       "Yes, colorful",
       "white",
       "no, 5",
-      "no",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2457,7 +2457,7 @@
       "low saturation, calorful, brown",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "caartoon",
       "no, unrealistic"
@@ -2471,8 +2471,8 @@
       "low saturation, colorful, brown, yellow",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "colorful",
       "no, unrealistic"
     ]
@@ -2485,10 +2485,10 @@
       "low saturation, colorful",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2499,10 +2499,10 @@
       "low saturation, colorful, blue, green",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2514,7 +2514,7 @@
       "Yes, colorful",
       "colorful",
       "no, 9",
-      "no",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2527,10 +2527,10 @@
       "low saturation, colorful, yellow, black",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2541,8 +2541,8 @@
       "low saturation, colorful, gray, pink",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2555,8 +2555,8 @@
       "low saturation, colorful, vivid colors, orange",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2569,8 +2569,8 @@
       "low saturation, colorful, green, vivid colors, worm",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2583,7 +2583,7 @@
       "low saturation, colorful, pink, yellow, blue",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
       "no, unrealistic"
@@ -2597,10 +2597,10 @@
       "low saturation, colorful, brown, black, white",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2611,8 +2611,8 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2625,8 +2625,8 @@
       "low saturation, colorful, brown, blue",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2639,7 +2639,7 @@
       "low saturation, colorful, brown, yellow",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -2653,8 +2653,8 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2667,8 +2667,8 @@
       "low saturation, colorful, gray, pink",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2681,10 +2681,10 @@
       "low saturation, colorful, yellow, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2695,8 +2695,8 @@
       "low saturation, colorful, blue",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2723,10 +2723,10 @@
       "low saturation, colorful, blue, brown",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2737,7 +2737,7 @@
       "low saturation, colorful, yellow, brown",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoo",
       "no, unrealistic"
@@ -2751,7 +2751,7 @@
       "low saturation, colorful, yellow, brown",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -2765,7 +2765,7 @@
       "low saturation, colorful, green, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -2780,7 +2780,7 @@
       "Yes, colorful",
       "white",
       "no, 5",
-      "no",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2793,7 +2793,7 @@
       "low saturation, colorful, gray",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -2807,8 +2807,8 @@
       "high saturation, colorful, blue, green, yellow",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2821,7 +2821,7 @@
       "low saturation, colorful, brown,blue",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
       "no, unrealistic"
@@ -2835,8 +2835,8 @@
       "low saturation, colorful, vivid colors, brown, orange",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2849,7 +2849,7 @@
       "low saturation, blue, colorful",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
       "no, unrealistic"
@@ -2863,8 +2863,8 @@
       "low saturation, colorful, vivid colors, green, orange",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2877,8 +2877,8 @@
       "low saturation, colorful, orange, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2891,8 +2891,8 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2905,10 +2905,10 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2919,8 +2919,8 @@
       "low saturation, colorful, brown, red",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2933,10 +2933,10 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -2947,7 +2947,7 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
       "no, unrealistic"
@@ -2961,8 +2961,8 @@
       "low saturation, colorful, orange, blue , brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -2975,7 +2975,7 @@
       "low saturation, colorful, gray, yellow, brown",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
       "no, unrealistic"
@@ -2989,7 +2989,7 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -3003,7 +3003,7 @@
       "low saturation, colorful, gray",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
       "no, unrealistic"
@@ -3017,8 +3017,8 @@
       "low saturation, colorful, blue",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -3045,10 +3045,10 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3060,7 +3060,7 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -3073,10 +3073,10 @@
       "low saturation, colorful, green, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3087,10 +3087,10 @@
       "low saturation, colorful, brown, yellow",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3101,8 +3101,8 @@
       "low saturation, colorful, vivid colors, blue, yellow",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -3116,7 +3116,7 @@
       "Yes, colorful",
       "white",
       "no, 2",
-      "no",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -3129,8 +3129,8 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -3143,8 +3143,8 @@
       "low saturation, colroful, yellow",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -3157,8 +3157,8 @@
       "low saturation, colorful, pink, blue, green",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -3171,8 +3171,8 @@
       "low saturation, colorful, brown, yellow",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -3185,7 +3185,7 @@
       "low saturation, colorful, brown, yellow, blue",
       "Yes, colorful",
       "colorful",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -3199,10 +3199,10 @@
       "low saturation, colorful, red, yellow, green, blue",
       "Yes, colorful",
       "colorful",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3213,7 +3213,7 @@
       "low saturation, colorful, brown, yellow",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -3227,7 +3227,7 @@
       "low saturation, colorful, red, blue, green",
       "Yes, colorful",
       "colorful",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -3241,7 +3241,7 @@
       "low saturation, colorful, brown, blue",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -3255,10 +3255,10 @@
       "low saturation, colorful, pink, blue",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3269,10 +3269,10 @@
       "low saturation, colorful, pink, black",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3283,8 +3283,8 @@
       "low saturation, colorful, pink",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -3298,7 +3298,7 @@
       "Yes, colorful",
       "colorful",
       "no, 3",
-      "no",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -3311,8 +3311,8 @@
       "low saturation, colorful, yellow, red, blue, green",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -3325,8 +3325,8 @@
       "low saturation, colorful, brown, red, gray",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "cartoon",
       "no, unrealistic"
     ]
@@ -3339,10 +3339,10 @@
       "low saturation, colorful, brown, green, blue",
       "Yes, colorful",
       "colorful",
-      "yes",
+      "yes, single instance ",
       "yes, dense text",
       "cartoon",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3353,7 +3353,7 @@
       "low saturation, colorful, orange, yellow, blue, brown",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -3367,7 +3367,7 @@
       "low saturation, colorful, vivid colors, brown, orange, blue",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -3381,7 +3381,7 @@
       "low saturation, colorful, blue",
       "Yes, colorful",
       "white",
-      "yes",
+      "yes, single instance ",
       "yes, sparse text",
       "cartoon",
       "no, unrealistic"
@@ -3395,10 +3395,10 @@
       "low saturation, colorful, brown, yellow ",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3409,10 +3409,10 @@
       "low saturation, colorful, brown, green",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3423,10 +3423,10 @@
       "low saturation, colorful, brown, yellow, green",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3437,10 +3437,10 @@
       "low saturation, colorful, neutral",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3451,10 +3451,10 @@
       "low saturation, colorful, neutral, pink",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3465,10 +3465,10 @@
       "low saturation, colorful, neutral",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3479,10 +3479,10 @@
       "low saturation, colorful, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3493,10 +3493,10 @@
       "low saturation, colorful, brown, green, blue",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3507,10 +3507,10 @@
       "low saturation, colorful, cold, blue",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3521,10 +3521,10 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3535,10 +3535,10 @@
       "low saturation, colorful, blue, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3550,9 +3550,9 @@
       "Yes, colorful",
       "colorful",
       "no, 2",
-      "no",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3563,10 +3563,10 @@
       "low saturation, colorful, blue",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3577,10 +3577,10 @@
       "low saturation, colorful, gray, brown",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3591,10 +3591,10 @@
       "low saturation, colorful, gray, blue , green",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3606,9 +3606,9 @@
       "Yes, colorful",
       "colorful",
       "no, 3",
-      "no",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3619,10 +3619,10 @@
       "low saturation, colorful, green, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3633,10 +3633,10 @@
       "low saturation, colorful, green, blue, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3647,10 +3647,10 @@
       "low saturation, colorful",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3661,10 +3661,10 @@
       "low saturation, colorful, brown, blue",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3675,10 +3675,10 @@
       "low saturation, colorful , brown",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3689,10 +3689,10 @@
       "low saturation, colorful, gray, green, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3703,10 +3703,10 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3717,10 +3717,10 @@
       "low saturation, colorful, gray, green",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3731,10 +3731,10 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3745,10 +3745,10 @@
       "low saturation, colorful, green, gray",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3759,10 +3759,10 @@
       "low saturation, colorful, bright",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3773,10 +3773,10 @@
       "low saturation, colorful",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3787,10 +3787,10 @@
       "low saturation, colorful, brown, green",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3801,10 +3801,10 @@
       "low saturation, colorful, blue, brown, green",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3815,10 +3815,10 @@
       "low saturation, colorful, grren, gray, blue",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3829,10 +3829,10 @@
       "low saturation, colorful, green",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3843,10 +3843,10 @@
       "low saturation, colorful",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3857,10 +3857,10 @@
       "low saturation, colorful, brown, blue, green",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3871,10 +3871,10 @@
       "low saturation, colorful, brown, green, gray",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3885,10 +3885,10 @@
       "low saturation, colorful, cold, blue",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3899,10 +3899,10 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3913,10 +3913,10 @@
       "low saturation, colorful",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3927,10 +3927,10 @@
       "low saturation, colorful, green, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3941,10 +3941,10 @@
       "low saturation, colorful, blue, green, gray",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3955,10 +3955,10 @@
       "low saturation, colorful, brown, blue, green",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3969,10 +3969,10 @@
       "low saturation, colorful, brown, green",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3983,10 +3983,10 @@
       "low saturation, colorful, orange, yellow, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -3997,10 +3997,10 @@
       "low saturation, colorful, green, blue, brown",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -4011,10 +4011,10 @@
       "low saturation, colorful, green, blue, gray",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -4025,10 +4025,10 @@
       "low saturation, colorful, pink, gray,",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -4039,10 +4039,10 @@
       "low saturation, colorful, green, browm",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -4053,10 +4053,10 @@
       "low saturation, colorful, brown, yellow",
       "Yes, colorful",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -4067,10 +4067,10 @@
       "low saturation, colorful, gray, green",
       "Yes, colorful",
       "colorful",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -4081,10 +4081,10 @@
       "low saturation, colorful, brown",
       "Yes, colorful",
       "monochrome",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -4095,8 +4095,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4109,8 +4109,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4123,8 +4123,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4137,8 +4137,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4151,8 +4151,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4165,8 +4165,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4179,10 +4179,10 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -4193,8 +4193,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4207,8 +4207,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4221,8 +4221,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4235,8 +4235,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4249,8 +4249,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4263,8 +4263,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4277,8 +4277,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4291,8 +4291,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4305,8 +4305,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4319,8 +4319,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4333,8 +4333,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4347,8 +4347,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4361,8 +4361,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4375,8 +4375,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4389,8 +4389,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4403,8 +4403,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4417,8 +4417,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4431,8 +4431,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4445,8 +4445,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4459,8 +4459,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4473,8 +4473,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4487,8 +4487,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4501,8 +4501,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4515,8 +4515,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4529,8 +4529,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4543,8 +4543,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4557,8 +4557,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4571,8 +4571,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4585,8 +4585,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4599,8 +4599,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4613,8 +4613,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4627,8 +4627,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4641,8 +4641,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4655,8 +4655,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4669,8 +4669,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4683,8 +4683,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4697,8 +4697,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4711,8 +4711,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4725,8 +4725,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4739,8 +4739,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4753,8 +4753,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4767,8 +4767,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4781,8 +4781,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4795,8 +4795,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4809,8 +4809,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4823,8 +4823,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4837,8 +4837,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4851,8 +4851,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4865,8 +4865,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4879,8 +4879,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4893,8 +4893,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4907,8 +4907,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4921,8 +4921,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4935,8 +4935,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4949,8 +4949,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4963,10 +4963,10 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -4977,8 +4977,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -4991,8 +4991,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5005,8 +5005,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5019,8 +5019,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5033,8 +5033,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5047,8 +5047,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5061,8 +5061,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5075,8 +5075,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5089,8 +5089,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5103,8 +5103,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5117,8 +5117,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5131,8 +5131,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5145,8 +5145,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5159,8 +5159,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5173,8 +5173,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5187,8 +5187,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5201,8 +5201,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5215,8 +5215,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5229,8 +5229,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5243,8 +5243,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5257,8 +5257,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5271,8 +5271,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5285,8 +5285,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5299,8 +5299,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5313,8 +5313,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5327,8 +5327,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5341,8 +5341,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5355,8 +5355,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5369,8 +5369,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5383,8 +5383,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5397,8 +5397,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5411,8 +5411,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5425,8 +5425,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5439,8 +5439,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5453,8 +5453,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5467,8 +5467,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5481,8 +5481,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5495,8 +5495,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5509,8 +5509,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5523,8 +5523,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5537,8 +5537,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5551,8 +5551,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5565,8 +5565,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5579,8 +5579,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5593,8 +5593,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5607,8 +5607,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5621,8 +5621,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5635,8 +5635,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5649,8 +5649,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5663,8 +5663,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5677,8 +5677,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5691,8 +5691,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5705,8 +5705,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5719,8 +5719,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5733,8 +5733,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5747,8 +5747,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5761,8 +5761,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5775,8 +5775,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5789,8 +5789,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5803,8 +5803,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5817,8 +5817,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5831,8 +5831,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5845,8 +5845,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5859,8 +5859,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5873,8 +5873,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5887,8 +5887,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5901,8 +5901,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5915,8 +5915,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5929,8 +5929,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5943,8 +5943,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5957,8 +5957,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5971,8 +5971,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5985,8 +5985,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -5999,8 +5999,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6013,8 +6013,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6027,8 +6027,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6041,8 +6041,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6055,8 +6055,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6069,8 +6069,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6083,8 +6083,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6097,8 +6097,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6111,8 +6111,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6125,8 +6125,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6139,8 +6139,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6153,8 +6153,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6167,8 +6167,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6181,8 +6181,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6195,8 +6195,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6209,8 +6209,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6223,10 +6223,10 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -6237,8 +6237,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6251,8 +6251,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6265,8 +6265,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6279,8 +6279,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6293,8 +6293,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6307,8 +6307,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6321,8 +6321,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6335,8 +6335,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6349,8 +6349,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6363,8 +6363,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6377,8 +6377,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6391,10 +6391,10 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
-      "yes"
+      "yes, realistic"
     ]
   },
   {
@@ -6405,8 +6405,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6419,8 +6419,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6433,8 +6433,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6447,8 +6447,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
@@ -6461,8 +6461,8 @@
       "low saturation, black and white",
       "no, grayscale",
       "white",
-      "yes",
-      "no",
+      "yes, single instance ",
+      "no, text",
       "without texture",
       "no, unrealistic"
     ]
