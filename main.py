@@ -182,7 +182,7 @@ def main(opt):
                                                 best_accuracy,
                                                 total_train_loss )
 
-                iteration += 2
+                iteration += 5
                 if iteration > opt['max_iterations']:
                     break
         
