@@ -85,7 +85,9 @@ def main(opt):
             iteration = 0
             best_accuracy = 0
             total_train_loss = 0
+
             weight = torch.tensor( [1.0, 0.5, 0.3, 0.05, 0.05] )
+
             logging.info(
                 f'WEIGHT: {weight}' )
             train_loader_iterator = iter(train_loader)
@@ -140,6 +142,8 @@ def main(opt):
 
             # Train loop
             iteration = 0
+            top5Accuracy = [0, 0, 0, 0]
+            counter = 0
             best_accuracy = 0
             total_train_loss = 0
             weight = torch.tensor( [1.0, 0.5, 0.3, 0.05, 0.05, 0.2] )
@@ -175,22 +179,51 @@ def main(opt):
                     logging.info(
                         f'[VAL - {iteration}] Loss: {val_loss} | Accuracy: {(100 * val_accuracy):.2f}' )
                     if val_accuracy > best_accuracy:
-                        best_accuracy = val_accuracy
-                        experiment.save_checkpoint( f'{opt["output_path"]}/best_checkpoint.pth', iteration,
-                                                    best_accuracy, total_train_loss )
-                    experiment.save_checkpoint( f'{opt["output_path"]}/last_checkpoint.pth', iteration,
-                                                best_accuracy,
-                                                total_train_loss )
+                        top5Accuracy.pop()
+                        top5Accuracy.append(best_accuracy)
+                        if os.path.isfile(f'{opt["output_path"]}/best1_checkpoint.pth'):
+                            os.remove(f'{opt["output_path"]}/best1_checkpoint.pth')
+                        for i in range(3):
+                            if os.path.isfile(f'{opt["output_path"]}/best{i + 2}_checkpoint.pth'):
+                                os.rename(f'{opt["output_path"]}/best{i + 2}_checkpoint.pth',
+                                          f'{opt["output_path"]}/best{i + 1}_checkpoint.pth')
+                        experiment.save_checkpoint(f'{opt["output_path"]}/best4_checkpoint.pth', iteration,
+                                                   best_accuracy, total_train_loss)
 
-                iteration += 5
+                        best_accuracy = val_accuracy
+                        experiment.save_checkpoint(f'{opt["output_path"]}/best_checkpoint.pth', iteration,
+                                                   best_accuracy, total_train_loss)
+
+                    experiment.save_checkpoint(f'{opt["output_path"]}/last_checkpoint.pth', iteration,
+                                               best_accuracy,
+                                               total_train_loss)
+                    if iteration % 1000 == 0:
+                        experiment.save_checkpoint(f'{opt["output_path"]}/{counter}_checkpoint.pth', iteration,
+                                                   best_accuracy,
+                                                   total_train_loss)
+                        counter = counter + 1
+
+                iteration += 1
                 if iteration > opt['max_iterations']:
                     break
         
 
     # Test
-    experiment.load_checkpoint( f'{opt["output_path"]}/best_checkpoint.pth' )
-    test_accuracy, _ = experiment.validate( test_loader )
-    logging.info( f'[TEST] Accuracy: {(100 * test_accuracy):.2f}' )
+    experiment.load_checkpoint(f'{opt["output_path"]}/best_checkpoint.pth')
+    test_accuracy, _ = experiment.validate(test_loader)
+    logging.info(f'[TEST] Accuracy best: {(100 * test_accuracy):.2f}')
+    experiment.load_checkpoint(f'{opt["output_path"]}/last_checkpoint.pth')
+    test_accuracy, _ = experiment.validate(test_loader)
+    logging.info(f'[TEST] Accuracy last: {(100 * test_accuracy):.2f}')
+    for i in range(4):
+        if os.path.isfile(f'{opt["output_path"]}/best{i + 1}_checkpoint.pth'):
+            experiment.load_checkpoint(f'{opt["output_path"]}/best{i + 1}_checkpoint.pth')
+            test_accuracy, _ = experiment.validate(test_loader)
+            logging.info(f'[TEST] Accuracy best {i}: {(100 * test_accuracy):.2f}')
+    for i in range(int(opt['max_iterations'] / 1000)):
+        experiment.load_checkpoint(f'{opt["output_path"]}/{i}_checkpoint.pth')
+        test_accuracy, _ = experiment.validate(test_loader)
+        logging.info(f'[TEST] Accuracy count {i}: {(100 * test_accuracy):.2f}')
 
 
 if __name__ == '__main__':
