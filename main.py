@@ -91,9 +91,9 @@ def main(opt):
             logging.info(
                 f'WEIGHT: {weight}' )
             train_loader_iterator = iter(train_loader)
-            #test_loader_iterator = iter(test_loader)
             while iteration < opt['max_iterations']:
-
+                
+                #getting the next batch of train data
                 try:
                     data = next(train_loader_iterator)
                 except StopIteration:
@@ -101,15 +101,6 @@ def main(opt):
                     data = next(train_loader_iterator)
 
                 total_train_loss += experiment.train_iteration( data, train=True, weight=weight )
-
-                # try:
-                #     data = next(test_loader_iterator)
-                # except StopIteration:
-                #     test_loader_iterator = iter(test_loader)
-                #     data = next(test_loader_iterator)
-                
-                #total_train_loss += experiment.train_iteration( data, train=False, weight=weight )
-
 
                 if iteration % opt['print_every'] == 0:
                     logging.info( f'[TRAIN - {iteration}] Loss: {total_train_loss / (iteration + 1)}' )
@@ -150,9 +141,9 @@ def main(opt):
             logging.info(
                 f'WEIGHT: {weight}' )
             train_loader_iterator = iter(train_loader)
-            #test_loader_iterator = iter(test_loader)
             while iteration < opt['max_iterations']:
                 
+                #getting the next batch of train data
                 try:
                     data = next(train_loader_iterator)
                 except StopIteration:
@@ -160,15 +151,6 @@ def main(opt):
                     data = next(train_loader_iterator)
 
                 total_train_loss += experiment.train_iteration( data, train=True, weight=weight )
-
-                # try:
-                #     data = next(test_loader_iterator)
-                # except StopIteration:
-                #     test_loader_iterator = iter(test_loader)
-                #     data = next(test_loader_iterator)
-                
-                #total_train_loss += experiment.train_iteration( data, train=False, weight=weight )
-
 
                 if iteration % opt['print_every'] == 0:
                     logging.info( f'[TRAIN - {iteration}] Loss: {total_train_loss / (iteration + 1)}' )

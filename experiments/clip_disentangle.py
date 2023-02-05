@@ -71,23 +71,16 @@ class CLIPDisentangleExperiment:  # See point 4. of the project
 
         return iteration, best_accuracy, total_train_loss
 
-    # def create_label_tensor(self, t):
-    #     newt = list()
-    #     le = preprocessing.LabelEncoder()
-    #     for i in t:
-    #         newt.append(le.fit_transform(i))
-    #     newt = torch.tensor(newt)
-    #     return newt
-
     def train_iteration(self, data, train=True, weight=None):
         self.weights = weight
         self.optimizer.zero_grad()
 
         x, y, z, t = data
-        # t = self.create_label_tensor(t)
         x = x.to(self.device)
         y = y.to(self.device)
+        #domain labels
         z = z.to(self.device)
+        #tokenized text labels
         tokenized = clip.tokenize(t, truncate=True).to(self.device)
 
         for param in self.model.domain_encoder.parameters():

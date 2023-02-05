@@ -71,6 +71,7 @@ class DomainDisentangleExperiment:  # See point 2. of the project
         x, y, z = data
         x = x.to( self.device )
         y = y.to( self.device )
+        #domain labels
         z = z.to( self.device )
 
         for param in self.model.domain_encoder.parameters():
