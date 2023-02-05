@@ -24,7 +24,6 @@ class DomainDisentangleExperiment:  # See point 2. of the project
         # Setup model
         self.model = DomainDisentangleModel()
         self.model.train()
-
         for param in self.model.parameters():
             param.requires_grad = True
 
