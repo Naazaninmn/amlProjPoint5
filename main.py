@@ -179,7 +179,7 @@ def main(opt):
                     logging.info(
                         f'[VAL - {iteration}] Loss: {val_loss} | Accuracy: {(100 * val_accuracy):.2f}' )
                     if val_accuracy > best_accuracy:
-                        top5Accuracy.pop()
+                        top5Accuracy.pop(0)
                         top5Accuracy.append(best_accuracy)
                         if os.path.isfile(f'{opt["output_path"]}/best1_checkpoint.pth'):
                             os.remove(f'{opt["output_path"]}/best1_checkpoint.pth')
