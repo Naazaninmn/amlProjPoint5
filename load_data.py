@@ -304,6 +304,7 @@ def build_splits_clip_disentangle(opt):
         source_domain3 = 'photo'
         target_domain = opt['target_domain']
 
+    #using the same function as domain disentangle
     source_examples = read_lines_domain_disentangle(opt['data_path'], source_domain1)
     source_examples.update(read_lines_domain_disentangle(opt['data_path'], source_domain2))
     source_examples.update(read_lines_domain_disentangle(opt['data_path'], source_domain3))
