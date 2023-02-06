@@ -206,24 +206,30 @@ def main(opt):
                 iteration += 1
                 if iteration > opt['max_iterations']:
                     break
-        
 
+    """
+          1) we test the models base  best validation
+          2) if the experiment is clip_disentangle we try to check accuracy in every 1000 iterations, 
+          best4latest validation, the last run
+          """
     # Test
     experiment.load_checkpoint(f'{opt["output_path"]}/best_checkpoint.pth')
     test_accuracy, _ = experiment.validate(test_loader)
     logging.info(f'[TEST] Accuracy best: {(100 * test_accuracy):.2f}')
-    experiment.load_checkpoint(f'{opt["output_path"]}/last_checkpoint.pth')
-    test_accuracy, _ = experiment.validate(test_loader)
-    logging.info(f'[TEST] Accuracy last: {(100 * test_accuracy):.2f}')
-    for i in range(4):
-        if os.path.isfile(f'{opt["output_path"]}/best{i + 1}_checkpoint.pth'):
-            experiment.load_checkpoint(f'{opt["output_path"]}/best{i + 1}_checkpoint.pth')
-            test_accuracy, _ = experiment.validate(test_loader)
-            logging.info(f'[TEST] Accuracy best {i}: {(100 * test_accuracy):.2f}')
-    for i in range(int(opt['max_iterations'] / 1000)):
-        experiment.load_checkpoint(f'{opt["output_path"]}/{i}_checkpoint.pth')
+    if opt['experiment'] == 'clip_disentangle':
+        experiment.load_checkpoint(f'{opt["output_path"]}/last_checkpoint.pth')
         test_accuracy, _ = experiment.validate(test_loader)
-        logging.info(f'[TEST] Accuracy count {i}: {(100 * test_accuracy):.2f}')
+        logging.info(f'[TEST] Accuracy last: {(100 * test_accuracy):.2f}')
+        for i in range(4):
+            if os.path.isfile(f'{opt["output_path"]}/best{i + 1}_checkpoint.pth'):
+                experiment.load_checkpoint(f'{opt["output_path"]}/best{i + 1}_checkpoint.pth')
+                test_accuracy, _ = experiment.validate(test_loader)
+                logging.info(f'[TEST] Accuracy best {i}: {(100 * test_accuracy):.2f}')
+        for i in range(int(opt['max_iterations'] / 1000)):
+            if os.path.isfile(f'{opt["output_path"]}/{i}_checkpoint.pth'):
+                experiment.load_checkpoint(f'{opt["output_path"]}/{i}_checkpoint.pth')
+                test_accuracy, _ = experiment.validate(test_loader)
+                logging.info(f'[TEST] Accuracy count {i}: {(100 * test_accuracy):.2f}')
 
 
 if __name__ == '__main__':
