@@ -86,7 +86,7 @@ def main(opt):
             best_accuracy = 0
             total_train_loss = 0
 
-            weight = torch.tensor( [1.0, 0.1, 0.5, 0.05, 0.001] )
+            weight = torch.tensor( [1.0, 0.5, 0.3, 0.05, 0.05] )
 
             logging.info(
                 f'WEIGHT: {weight}' )
@@ -118,7 +118,7 @@ def main(opt):
                                                 best_accuracy,
                                                 total_train_loss )
 
-                iteration += 5
+                iteration += 1
                 if iteration > opt['max_iterations']:
                     break
         
@@ -137,7 +137,7 @@ def main(opt):
             counter = 0
             best_accuracy = 0
             total_train_loss = 0
-            weight = torch.tensor( [1.0, 0.5, 0.3, 0.05, 0.05, 0.2] )
+            weight = torch.tensor( [1.0, 0.5, 0.3, 0.05, 0.05, 0.5] )
             logging.info(
                 f'WEIGHT: {weight}' )
             train_loader_iterator = iter(train_loader)
@@ -185,7 +185,7 @@ def main(opt):
                                                    total_train_loss)
                         counter = counter + 1
 
-                iteration += 1
+                iteration += 5
                 if iteration > opt['max_iterations']:
                     break
         
