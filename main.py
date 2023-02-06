@@ -118,7 +118,7 @@ def main(opt):
                                                 best_accuracy,
                                                 total_train_loss )
 
-                iteration += 5
+                iteration += 1
                 if iteration > opt['max_iterations']:
                     break
         
@@ -161,11 +161,10 @@ def main(opt):
                     logging.info(
                         f'[VAL - {iteration}] Loss: {val_loss} | Accuracy: {(100 * val_accuracy):.2f}' )
                     """
-                    1)In this section we compare best value with the accuracy on the validation set.
-                    2)In the case of better value, we remove the first best value from the queue of top5accuracy.
+                    1)In this section we compare the best value with the current accuracy on the validation set.
+                    2)In the case of a better value, we remove the first best value from the queue of top5accuracy.
                     3)We save the the last best value in the queue. 
-                    4)rename the files remained to point to the correct accuracy.
-                    5)We change the best_accuracy value to the current accuracy on the validation set.
+                    4)We change the best_accuracy value to the current accuracy on the validation set.
                     """
                     if val_accuracy >= best_accuracy:
                         top5Accuracy.pop(0)
@@ -197,10 +196,9 @@ def main(opt):
                     break
 
     """
-          1) we test the models base  best validation
-          2) if the experiment is clip_disentangle we try to check accuracy in every 1000 iterations, 
-          best4latest validation, the last run
-          """
+    1)We use the best model(s) on the validation set on the test set
+    2)If the experiment is clip_disentangle, we also use 4 next best models
+    """
     # Test
     experiment.load_checkpoint(f'{opt["output_path"]}/best_checkpoint.pth')
     test_accuracy, _ = experiment.validate(test_loader)
